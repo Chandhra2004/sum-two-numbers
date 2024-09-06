@@ -1,0 +1,5 @@
+print("Enter a First Number")
+a=int(input())
+print("Enter a second Number")
+b=int(input())
+print(f"The Addition of two Number is :{a+b}")
